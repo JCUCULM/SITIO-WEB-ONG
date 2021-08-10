@@ -1,0 +1,16 @@
+body {
+    font-family: "Oswald", sans-serif;
+    background: #fff;
+    .container {
+;
+        background: #fff;
+        margin-bottom: 20px;
+}
+
+footer {
+    background: rgb(0, 0, 0)
+}
+
+.estilos-t {
+    padding: 20px;
+}
